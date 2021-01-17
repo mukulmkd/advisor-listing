@@ -6,7 +6,7 @@ This is a responsive application and I have used Bootstrap to achieve the same.
 
 I have used redux for the state management of this application.
 
-I have used [Typicode JSON Server](https://my-json-server.typicode.com/mukulmkd/fakedata) to fake my data. Click on the two links namely [advisors](https://my-json-server.typicode.com/mukulmkd/fakedata/advisors) and [availableadvisors](https://my-json-server.typicode.com/mukulmkd/fakedata/availableadvisors) to see the api response.
+I have used [Typicode JSON Server](https://my-json-server.typicode.com/) to fake my data. My repo for fake data is [here](https://my-json-server.typicode.com/mukulmkd/fakedata) Click on the two links namely [advisors](https://my-json-server.typicode.com/mukulmkd/fakedata/advisors) and [availableadvisors](https://my-json-server.typicode.com/mukulmkd/fakedata/availableadvisors) to see the api response.
 
 ## Follow below steps to run the project
 
