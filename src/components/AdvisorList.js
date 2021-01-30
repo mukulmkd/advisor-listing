@@ -9,6 +9,7 @@ import {
 import AdvisorCard from './AdvisorCard';
 import Error from './Error';
 import Loading from './Loading';
+import withBorder from './../hoc/withBorder';
 
 const AdvisorList = () => {
   const { advisors } = useSelector((state) => state.advisors);
@@ -53,4 +54,4 @@ const AdvisorList = () => {
   );
 };
 
-export default AdvisorList;
+export default withBorder(AdvisorList);
